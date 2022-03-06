@@ -5,22 +5,21 @@
     "icon": "https://favicons.githubusercontent.com/katharostech.com",
     "slug": "katharos-tech-com",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 468,
-    "timeDay": 236,
-    "timeWeek": 277,
-    "timeMonth": 290,
+    "timeDay": 438,
+    "timeWeek": 294,
+    "timeMonth": 300,
     "timeYear": 528,
     "dailyMinutesDown": {
       "2021-03-16": 35,
       "2021-03-14": 5,
       "2021-03-11": 39,
-      "2021-03-08": 9,
-      "2021-03-06": 11
+      "2021-03-08": 9
     }
   }
 ]
