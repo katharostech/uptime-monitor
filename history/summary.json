@@ -4,17 +4,17 @@
     "url": "https://katharostech.com",
     "icon": "https://favicons.githubusercontent.com/katharostech.com",
     "slug": "katharos-tech-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 473,
-    "timeDay": 416,
-    "timeWeek": 419,
-    "timeMonth": 337,
-    "timeYear": 526,
+    "timeDay": 343,
+    "timeWeek": 400,
+    "timeMonth": 335,
+    "timeYear": 525,
     "dailyMinutesDown": {}
   }
 ]
